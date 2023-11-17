@@ -1,0 +1,29 @@
+{
+    "TankBehavior": {
+        "checkpoints": [
+            {
+                "steps": 50019,
+                "file_path": "results/training8/TankBehavior/TankBehavior-50019.onnx",
+                "reward": 9.98683613538742,
+                "creation_time": 1700059935.781632,
+                "auxillary_file_paths": [
+                    "results/training8/TankBehavior/TankBehavior-50019.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50019,
+            "file_path": "results/training8/TankBehavior.onnx",
+            "reward": 9.98683613538742,
+            "creation_time": 1700059935.781632,
+            "auxillary_file_paths": [
+                "results/training8/TankBehavior/TankBehavior-50019.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.0"
+    }
+}
